@@ -5,15 +5,6 @@
 
 Aplikasi GUI sederhana berbasis **Java Swing** untuk mencatat tugas kuliah beserta prioritasnya. Tugas bisa ditambah, dihapus, dan ditandai selesai.
 
-## Cara Menjalankan
-
-```bash
-javac App.java
-java App
-```
-
-Membutuhkan JDK 8 atau lebih baru.
-
 ## Fitur
 
 - Menambah tugas dengan prioritas (Tinggi / Sedang / Rendah)
